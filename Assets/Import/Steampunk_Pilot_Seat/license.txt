@@ -1,0 +1,11 @@
+Model Information:
+* title:	Steampunk Pilot Seat
+* source:	https://sketchfab.com/3d-models/steampunk-pilot-seat-cec635f86f3f4cce8fb4004c695bb7cb
+* author:	Valentin Winkelmann (https://sketchfab.com/valentinwinkelmann)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Steampunk Pilot Seat" (https://sketchfab.com/3d-models/steampunk-pilot-seat-cec635f86f3f4cce8fb4004c695bb7cb) by Valentin Winkelmann (https://sketchfab.com/valentinwinkelmann) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
