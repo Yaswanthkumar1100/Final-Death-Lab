@@ -11,8 +11,8 @@ This project aims to create a virtual reality (VR) experience simulating the sen
 - **Unity Integration**: Arduino seamlessly connected to Unity via C# code without requiring plugins.
 
 ### Links
-- **Project Report**: [Project Report](https://drive.google.com/file/d/1QBERh4b6DRPsKJSVfPpeSVE9Q7L_oJpB/view?usp=drive_link)
+- **Project Report**: [Project Report](https://drive.google.com/drive/folders/1uTOp3LviREvaVkY6-tcNb7ssbMVlFKVh?usp=sharing)
 - **Simulation Video**: [Simulation Video](https://drive.google.com/drive/folders/1uTOp3LviREvaVkY6-tcNb7ssbMVlFKVh?usp=sharing)
-- **User Manual**: [User Manual](https://drive.google.com/file/d/1ggddraP4ZMQdopqKVxJJ2mlku2A_gbYO/view?usp=drive_link)
+- **User Manual**: [User Manual](https://drive.google.com/drive/folders/1uTOp3LviREvaVkY6-tcNb7ssbMVlFKVh?usp=sharing)
 
 For detailed instructions and additional information, refer to the project report linked above.
